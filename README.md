@@ -26,7 +26,7 @@ This is useful for:
 
 ## 📸 How it looks
 
-> ![BTC vs Altcoin Google Trends](https://github.com/YOURUSERNAME/google-trends-btc-vs-alts/assets/YOUR-ASSET-ID)
+> ![BTC vs Altcoin Google Trends](https://github.com/Sianap8/google-trends-btc-vs-alts/assets/YOUR-ASSET-ID)
 
 
 ---
