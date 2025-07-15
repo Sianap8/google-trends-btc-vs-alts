@@ -21,6 +21,11 @@ This is useful for:
 - Studying **retail investor interest** over time
 - Correlating **price pumps/dumps** with search demand
 - Exploring **bull/bear market sentiment**
+To help spot momentum shifts in search interest, a 9-period Exponential Moving Average (EMA) was added on top of the Google Trends plot.
+
+🔸 When the trend curve crosses above the 9 EMA, it may suggest rising public interest (bullish momentum confirmation)
+
+🔹 When it drops below, it may indicate fading sentiment
 
 ---
 
