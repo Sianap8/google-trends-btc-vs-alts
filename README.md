@@ -26,7 +26,8 @@ This is useful for:
 
 ## 📸 How it looks
 
-> You can add screenshots here in the GitHub repo later!
+> ![BTC vs Altcoin Google Trends](https://github.com/YOURUSERNAME/google-trends-btc-vs-alts/assets/YOUR-ASSET-ID)
+
 
 ---
 
