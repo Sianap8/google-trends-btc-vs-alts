@@ -31,7 +31,9 @@ To help spot momentum shifts in search interest, a 9-period Exponential Moving A
 
 ## 📸 How it looks
 
-> ![BTC vs Altcoin Google Trends](https://github.com/Sianap8/google-trends-btc-vs-alts/assets/YOUR-ASSET-ID)
+> ![BTC vs Altcoin Google Trends] https://github.com/Sianap8/google-trends-btc-vs-alts/blob/main/btc-vs-altcoin-trends-tradingview.png
+
+> ![9 EMA overlay example] https://github.com/Sianap8/google-trends-btc-vs-alts/blob/main/btc-trends-with-ema.png
 
 
 ---
